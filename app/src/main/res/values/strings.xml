@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PASA</string>
+    <string name="pasa">PASA</string>
+    <string name="roll">ROLL</string>
+    <string name="restart">ReStart</string>
+</resources>
